@@ -1,0 +1,14 @@
+{
+  "name": "playground3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/twilson63/playground3.git",
+  "author": "Tom Wilson <tom@hyper.io>",
+  "license": "MIT",
+  "dependencies": {
+    "hyper-async": "^1.1.1",
+    "tsm": "^2.3.0",
+    "typescript": "^5.1.3",
+    "uvu": "^0.5.6"
+  }
+}
